@@ -4,4 +4,5 @@
 Welcome! Please find all of the materials to replicate this research and critique it.
 
 - Sample characteristics
+- App descriptions
 - Qualitative analysis
